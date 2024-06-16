@@ -1,0 +1,23 @@
+#key {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.new-div {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
